@@ -1,8 +1,7 @@
-
 ![image](https://github.com/user-attachments/assets/2cf50d63-7275-4db1-aee0-4275b8324c11)
 
 
-# **⚠️  You Are Vulnerable to a Phishing Attack**
+# **⚠️  You Are Vulnerable to Phishing Attacks**
 
 This time, you were lucky—this is a **SisterWorks simulation** designed to educate you about phishing risks. However, if this had been a real phishing attack, the consequences could have been catastrophic:
 
@@ -44,13 +43,13 @@ Phishing emails are often designed to trick you into thinking they are legitimat
 - **Example**: A legitimate Infoodle link would look like:
   - Displayed:              **infoodle.com**
   - Actual URL (hover): **infoodle.com**  
-![legitInfoodlefinal](https://github.com/user-attachments/assets/99713c7e-d0d5-4324-9c93-d3661e173448)
+![legitInfo](https://github.com/user-attachments/assets/57ce8f28-0081-4368-ba84-7aaf7d1a3307)
 
 - Phishing links, however, might appear similar but redirect you elsewhere:
   - Displayed: **infoodle.com**
   - Actual URL: **infood1e.org**  
   
-![phishInfoodle](https://github.com/user-attachments/assets/037f0f40-f121-4a67-a172-caa0bfdcf5c9)
+![phishInfo](https://github.com/user-attachments/assets/15bfecab-8484-4a82-a677-54fc5293bc27)
 
 - **Tip**: Always try access websites by typing the URL directly into your browser or using saved bookmarks when possible, rather than clicking email links if you're unsure.  
 
