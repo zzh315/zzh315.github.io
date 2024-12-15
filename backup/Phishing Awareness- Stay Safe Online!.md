@@ -1,4 +1,6 @@
 
+![image](https://github.com/user-attachments/assets/b0246aef-821a-4fbf-8df2-ea4286522963)
+
 # **⚠️  You Are Vulnerable to a Phishing Attack**
 
 This time, you were lucky—this is a **SisterWorks simulation** designed to educate you about phishing risks. However, if this had been a real phishing attack, the consequences could have been catastrophic:
@@ -33,21 +35,25 @@ Phishing emails are often designed to trick you into thinking they are legitimat
 - Common phishing pattern: Misspelled domain names that look similar to real ones (e.g., **@sisterw0rks.org.au** or **@sisterworks-login.org**).
 - **Example**: A phishing email pretending to be from LinkedIn may use a domain like **linkedn.com** or **1inkedin.com** instead of **linkedin.com**. Always look closely.
 
-![Screenshot showing the difference between a legitimate and phishing email domain](path/to/screenshot1.png)
 
 ---
 
 ### **2. Verify Links Before Clicking**
 - **Hover over the link** (without clicking) to see the destination URL. A legitimate link will match the organization's official domain.
-- **Example**: A legitimate SisterWorks login portal link would look like:
-  - Displayed: **https://portal.sisterworks.org.au/login**
-  - Actual URL: **https://portal.sisterworks.org.au/login**  
-- Phishing links, however, might appear similar but redirect you elsewhere:
-  - Displayed: **https://portal.sisterworks.org.au/login**
-  - Actual URL: **https://s1sterw0rks-secure-login.com**  
-- **Tip**: Always access login portals by typing the URL directly into your browser or using saved bookmarks, rather than clicking email links if you're unsure.  
+- **Example**: A legitimate Infoodle link would look like:
+  - Displayed:              **infoodle.com**
+  - Actual URL (hover): **infoodle.com**  
+![legitInfoodlefinal](https://github.com/user-attachments/assets/99713c7e-d0d5-4324-9c93-d3661e173448)
 
-![Screenshot of a phishing link being hovered over with the URL revealed](path/to/screenshot2.png)
+- Phishing links, however, might appear similar but redirect you elsewhere:
+  - Displayed: **infoodle.com**
+  - Actual URL: **infood1e.org**  
+  
+![phishInfoodle](https://github.com/user-attachments/assets/037f0f40-f121-4a67-a172-caa0bfdcf5c9)
+
+- **Tip**: Always try access websites by typing the URL directly into your browser or using saved bookmarks when possible, rather than clicking email links if you're unsure.  
+
+
 
 ---
 
@@ -56,24 +62,19 @@ Phishing emails are often designed to trick you into thinking they are legitimat
 - Example: "Dear coustomer, your acount has been susspended. Please login to resolve the issue."  
 - Legitimate companies typically proofread their communications carefully.  
 
-![Screenshot of a phishing email with grammatical errors](path/to/screenshot3.png)
 
 ---
 
 ### **4. Be Wary of Urgent or Unusual Requests**
 - Phishing emails often try to create a sense of urgency to pressure you into acting quickly.  
 - Phrases like "Your account will be locked in 24 hours" or "You must confirm your payment immediately" are designed to make you panic.  
-- Legitimate companies like SisterWorks will not send urgent emails requesting sensitive information without prior communication.
-
-![Screenshot of a threatening phishing email](path/to/screenshot4.png)
+- If unsure, consult your supervisor or IT department before responding or taking any action.
 
 ---
 
 ### **5. Check Attachments Carefully**
 - Avoid opening unexpected attachments, especially if they have suspicious file extensions like **.exe**, **.zip**, or **.scr**.  
-- Legitimate emails from SisterWorks will rarely include unsolicited attachments.
-
-![Screenshot showing a phishing email with a suspicious attachment](path/to/screenshot5.png)
+- Most legitimate external emails typically do not include unexpected attachments. When in doubt, verify with the sender or your IT team.
 
 ---
 ## **What to Do if You Suspect Phishing**
@@ -89,19 +90,20 @@ If you think an email might be a phishing attempt, follow these steps immediatel
 ### **2. Verify the Email**
 - **Check the sender's address**: Does it match the official domain?  
 - **Hover over links**: Do the URLs match the company's official website?  
-- If you're unsure, contact the sender through an official channel (e.g., SisterWorks support). Do not use any contact information provided in the suspicious email.
-
+- If you're unsure, contact the sender through an official channel. Do not use any contact information provided in the suspicious email.
 ---
 
 ### **3. Report the Email**
 - **Forward the email** to **[sabrina@sisterworks.org.au](mailto:sabrina@sisterworks.org.au)** so the IT Team can investigate.  
 - Mark the email as spam in your inbox to prevent further communication from that address.
+![image](https://github.com/user-attachments/assets/28090614-8bbe-4aeb-b29d-bcdeb29baea7)
 
 ---
 
 ### **4. Update Your Passwords**
 - If you suspect you clicked a malicious link or entered your information, change your passwords immediately.  
-- Use a strong, unique password and enable two-factor authentication (2FA) where possible.
+- Use a strong, unique password and always enable two-factor authentication (2FA) where possible.
+
 
 ---
 
@@ -126,14 +128,14 @@ You receive an email claiming to be from SisterWorks IT Support asking you to re
 <summary>**Show Answer**</summary>
 
 ✅ **Do not click the link.**  
-The email address contains a misspelled domain (**s1sterworks.org.au**) and the link is not from the official SisterWorks domain. Report this email to **[phishing@sisterworks.org.au](mailto:phishing@sisterworks.org.au)**.
+The email address contains a misspelled domain (**@s1sterworks.org.au**) and the link is not from the official SisterWorks domain. Report this email to **[sabrina@sisterworks.org.au](mailto:sabrina@sisterworks.org.au)**.
 </details>
 
 ---
 
 ### **Question 2:**
 You receive an email from **hr@sisterworks.org.au** with the subject "Important: Update Your Payment Information." The email contains no greeting and a generic message:  
-*"Dear Employee, please update your bank details using the link below to avoid payment delays."*
+>*"Dear Employee, please update your bank details using the link below to avoid payment delays. [bank.com](http://hack.com)"*
 
 What do you notice about this email?
 
@@ -141,10 +143,14 @@ What do you notice about this email?
 <summary>**Show Answer**</summary>
 
 ✅ **Red flags:**  
+
+
 - No personalized greeting or context.  
 - Urgent language intended to pressure you.  
 - Payment-related requests are not typically sent via email.  
-Verify the sender by contacting the HR department through official channels.
+- Link displayed does not match real link when hovered (bank->hack).com.
+- Although the domain name is correct in this case, sophisticated attackers are able to spoof(mimic) legit sisterworks domain name to deceive you.
+TODO: Verify the sender by contacting the HR department through official channels.
 </details>
 
 ---
@@ -167,7 +173,7 @@ By staying vigilant, you help protect yourself, your colleagues, and the mission
 
 
 
-## **Acknowledgment**
+## **Acknowledg Your Learning**
 
 Once you’ve completed the quiz, please take a moment to fill out this [Google Form](https://forms.google.com) to acknowledge your learning. 
 
