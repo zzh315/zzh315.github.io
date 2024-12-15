@@ -1,5 +1,5 @@
 <img src="https://assets.raffletix.com.au/orgs/uan/240214-005519-055.png" alt="SisterWorks" width="400px">
-
+![](https://assets.raffletix.com.au/orgs/uan/240214-005519-055.png)
 # **⚠️  You Are Vulnerable to a Phishing Attack**
 
 This time, you were lucky—this is a **SisterWorks simulation** designed to educate you about phishing risks. However, if this had been a real phishing attack, the consequences could have been catastrophic:
@@ -174,7 +174,7 @@ By staying vigilant, you help protect yourself, your colleagues, and the mission
 
 ## **Acknowledg Your Learning**
 
-Once you’ve completed the quiz, please take a moment to fill out this [Google Form](https://forms.google.com) to acknowledge your learning. 
+Once you’ve completed the quiz, please take a moment to fill out this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSex3sOW-S1OOdG3NOAslGHGVStzM7kQI8IIM48OEu3ivX5waw/viewform?usp=pp_url) to acknowledge your learning. 
 
 > **Important**: Completing the form is mandatory. If you do not fill it out within **2 weeks of clicking on the email**, your account will be locked. To unlock your account, please contact the IT Team at **[sabrina@sisterworks.org.au](mailto:sabrina@sisterworks.org.au)**. This helps us ensure everyone is up-to-date with phishing awareness and contributes to a safer work environment.
 
