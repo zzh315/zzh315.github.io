@@ -1,5 +1,6 @@
-<img src="https://assets.raffletix.com.au/orgs/uan/240214-005519-055.png" alt="SisterWorks" width="400px">
+
 ![](https://assets.raffletix.com.au/orgs/uan/240214-005519-055.png)
+
 # **⚠️  You Are Vulnerable to a Phishing Attack**
 
 This time, you were lucky—this is a **SisterWorks simulation** designed to educate you about phishing risks. However, if this had been a real phishing attack, the consequences could have been catastrophic:
