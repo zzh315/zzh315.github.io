@@ -1,5 +1,4 @@
-
-![image](https://github.com/user-attachments/assets/b0246aef-821a-4fbf-8df2-ea4286522963)
+<img src="https://assets.raffletix.com.au/orgs/uan/240214-005519-055.png" alt="SisterWorks" width="400px">
 
 # **⚠️  You Are Vulnerable to a Phishing Attack**
 
